@@ -1,0 +1,11 @@
+name: GMask
+version: '${project.version}'
+main: gmask.gmask.GMask
+api-version: 1.18
+website: https://www.gmjit.com/
+commands:
+  gmask:
+    description: 获取GMask的帮助列表
+
+
+depend: [MiraiMC]
