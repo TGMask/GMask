@@ -1,0 +1,6 @@
+whitelist: true
+QQGroup: 123456 #监听群
+Master: '123456'
+whitecmd: '申请通行证'   #申请白名单格式：<whitecmd> ID
+whitelisttext:
+  - '您未持有本服通行证，请到群内申请后重试！'
